@@ -250,36 +250,36 @@ footer a {
     text-decoration: none;
 }
 
+/* Default styles */
 @media only screen and (max-width: 768px) {
-	/* Adjust container width */
-	.container {
-	  width: 100%;
-	  border-radius: 0;
-	}
-	
-	/* Adjust form-container width */
-	.form-container {
-	  width: 100%;
-	}
-	
-	/* Adjust overlay-container width */
-	.overlay-container {
-	  width: 100%;
-	}
-	
-	/* Adjust overlay-panel width */
-	.overlay-panel {
-	  width: 100%;
-	}
-	
-	/* Adjust overlay-left and overlay-right positions */
-	.overlay-left, .overlay-right {
-	  transform: translateX(0);
-	}
-	
-	/* Adjust social-container margin */
-	.social-container {
-	  margin: 10px 0;
-	}
+  /* Adjust container width */
+  .container {
+    width: 100%;
+    border-radius: 0;
   }
   
+  /* Adjust form-container width */
+  .form-container {
+    width: 100%;
+  }
+  
+  /* Adjust overlay-container width */
+  .overlay-container {
+    width: 100%;
+  }
+  
+  /* Adjust overlay-panel width */
+  .overlay-panel {
+    width: 100%;
+  }
+  
+  /* Adjust overlay-left and overlay-right positions */
+  .overlay-left, .overlay-right {
+    transform: translateX(0);
+  }
+  
+  /* Adjust social-container margin */
+  .social-container {
+    margin: 10px 0;
+  }
+}
